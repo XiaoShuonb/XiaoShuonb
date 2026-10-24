@@ -1,4 +1,4 @@
-# Hi, I'm XiaoShuo 👋
+# Hi, I'm XiaoShuo 
 
 喜欢把脑洞变成能用的东西。日常和 AI 结对开发，合作总体愉快，除了它偶尔会把 Bug 写得很有道理。
 
@@ -10,6 +10,6 @@
 
 **保持好奇，把想法做出来，把细节做好。**
 
-📬 **Telegram** · [@XiaoShuoTech](https://t.me/XiaoShuoTech)
+ **Telegram** · [@XiaoShuoTech](https://t.me/XiaoShuoTech)
 
-🌐 **Website** · [default.support](https://default.support)
+ **Website** · [default.support](https://default.support)
