@@ -9,3 +9,5 @@
 大部分代码由 AI 完成，方向和验收由我把关。相信 AI 的生产力，也养成了一个习惯：听到「已修复」，先点开看看。
 
 **保持好奇，把想法做出来，把细节做好。**
+
+📬 **Telegram** · [@XiaoShuoTech](https://t.me/XiaoShuoTech)
